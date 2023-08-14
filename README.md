@@ -77,7 +77,7 @@ Other tools
 ![SCALA](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
 ![GRADLE](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 
-UML
+UML<br>
 WSL - Windows Subsystem for Linux
 
 ## Intrested in 
