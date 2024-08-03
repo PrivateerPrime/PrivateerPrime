@@ -3,7 +3,7 @@
 - Bachelor's degree in [Applied Computer Science](https://wit.pwr.edu.pl/en/candidates/1st-cycle-studies/applied-computer-science) at [Wrocław University of Science and Technology](https://pwr.edu.pl/en/).
 - Master's degree in [Applied computer 
 science (software engineering)](https://wit.pwr.edu.pl/en/candidates/2nd-cycle-studies/applied-computer-science) at Wrocław University of Science 
-and Technology  - *in progress*
+and Technology.
 
 
 ## Experience
